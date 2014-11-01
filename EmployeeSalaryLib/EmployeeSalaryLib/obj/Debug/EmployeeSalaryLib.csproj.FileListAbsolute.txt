@@ -2,3 +2,8 @@ C:\Users\Hafiz\Desktop\TDD Project\EmployeeSalaryLib\EmployeeSalaryLib\bin\Debug
 C:\Users\Hafiz\Desktop\TDD Project\EmployeeSalaryLib\EmployeeSalaryLib\bin\Debug\EmployeeSalaryLib.pdb
 C:\Users\Hafiz\Desktop\TDD Project\EmployeeSalaryLib\EmployeeSalaryLib\obj\Debug\EmployeeSalaryLib.dll
 C:\Users\Hafiz\Desktop\TDD Project\EmployeeSalaryLib\EmployeeSalaryLib\obj\Debug\EmployeeSalaryLib.pdb
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryLib\bin\Debug\EmployeeSalaryLib.dll
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryLib\bin\Debug\EmployeeSalaryLib.pdb
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryLib\obj\Debug\EmployeeSalaryLib.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryLib\obj\Debug\EmployeeSalaryLib.dll
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryLib\obj\Debug\EmployeeSalaryLib.pdb

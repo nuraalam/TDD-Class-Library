@@ -19,6 +19,12 @@ namespace EmployeeSalaryTest
         {
            aSalary = new Salary();
         }
+
+        [TearDown]
+        public void End()
+        {
+            aSalary = null;
+        }
         [Test]
         public void TotalSalaryZero()
         {          
@@ -114,10 +120,6 @@ namespace EmployeeSalaryTest
             Assert.AreEqual(19734, aSalary.TotalSalary, 0.01);
         }
 
-        [TearDown]
-        public void End()
-        {
-            aSalary = null;
-        }
+       
     }
 }

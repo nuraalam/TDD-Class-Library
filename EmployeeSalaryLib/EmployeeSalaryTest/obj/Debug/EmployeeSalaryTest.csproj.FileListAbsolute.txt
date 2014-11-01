@@ -7,3 +7,11 @@ C:\Users\Hafiz\Desktop\TDD Project\EmployeeSalaryLib\EmployeeSalaryTest\bin\Debu
 C:\Users\Hafiz\Desktop\TDD Project\EmployeeSalaryLib\EmployeeSalaryTest\obj\Debug\EmployeeSalaryTest.csprojResolveAssemblyReference.cache
 C:\Users\Hafiz\Desktop\TDD Project\EmployeeSalaryLib\EmployeeSalaryTest\obj\Debug\EmployeeSalaryTest.dll
 C:\Users\Hafiz\Desktop\TDD Project\EmployeeSalaryLib\EmployeeSalaryTest\obj\Debug\EmployeeSalaryTest.pdb
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryTest\bin\Debug\EmployeeSalaryTest.dll
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryTest\bin\Debug\EmployeeSalaryTest.pdb
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryTest\bin\Debug\EmployeeSalaryLib.dll
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryTest\bin\Debug\EmployeeSalaryLib.pdb
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryTest\bin\Debug\nunit.framework.xml
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryTest\obj\Debug\EmployeeSalaryTest.csprojResolveAssemblyReference.cache
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryTest\obj\Debug\EmployeeSalaryTest.dll
+C:\Users\PC21\Desktop\TDD-Class-Library\EmployeeSalaryLib\EmployeeSalaryTest\obj\Debug\EmployeeSalaryTest.pdb

@@ -12,9 +12,10 @@ namespace EmployeeSalaryLib
         private double increment;
         private int numberOfIncrement;
 
+
         public double IncrementInPercentages
         {
-            set
+           set
             {
                 numberOfIncrement++;
                 increment = (value+100)/100;
