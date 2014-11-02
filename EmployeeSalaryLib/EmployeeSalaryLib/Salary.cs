@@ -8,20 +8,19 @@ namespace EmployeeSalaryLib
         public double Convenyence { get; private set; }
         public double Medical { get; private set; }
         public double TotalSalary { get; private set; }
+        public int NumberOfIncrement { get; private set; }
 
-        private double increment;
-        private int numberOfIncrement;
-
-        public double IncrementInPercentages
+        private double increment;       
+        public void IncrementInPercentage(double incrementInPercentage)
         {
-            set
-            {
-                numberOfIncrement++;
-                increment = (value+100)/100;
-                GetTotalSalary();
-            }
-        }
+            NumberOfIncrement++;
+            increment = (incrementInPercentage+100)/100;
+            BasicSalary = BasicSalary * increment;
+            Medical = Medical * increment;
+            Convenyence = Convenyence * increment;
+            TotalSalary = BasicSalary + Medical + Convenyence;
 
+        }
         public Salary(double basic, double medicalPercentagesOfBasic, double convenyencePercentagesOfBasic)
         {
             BasicSalary = basic;
@@ -33,19 +32,6 @@ namespace EmployeeSalaryLib
         public Salary()
         {
           
-        }
-      
-        private double GetTotalSalary()
-        {
-            BasicSalary = BasicSalary * increment;
-            Medical = Medical * increment;
-            Convenyence = Convenyence * increment;
-            return TotalSalary = BasicSalary+Medical+Convenyence;
-        }
-
-        public int GetNumberofIncrement()
-        {
-            return numberOfIncrement;
-        }
+        }     
     }
 }
